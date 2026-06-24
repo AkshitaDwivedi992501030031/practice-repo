@@ -1,6 +1,6 @@
-# Practice Repository
+## Practice Repository++
 
-This repository is used for learning:----
+This repository is used for learning:
 
 - Forking
 - Cloning
@@ -11,6 +11,7 @@ This repository is used for learning:----
 
 Students are encouraged to improve documentation and submit Pull Requests.
 
-## Learning Resources
+### Learning Resources:
 
 See the files inside the repository for practice activities.
+
